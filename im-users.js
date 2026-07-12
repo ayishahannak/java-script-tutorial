@@ -1,1 +1,1 @@
-const {user}=require('./user');  //not crct
+const {user}=require('./user');  //d
